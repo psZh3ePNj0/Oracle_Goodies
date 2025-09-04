@@ -1,7 +1,7 @@
 <h2>DBA Statement of Work spreadsheet template</h2>
 
 
-In some of our experiences, DBA / Development is significant. However the process procurement of DBAs / developers as resources are quite informal, say a casual email or word to our managers.
+In some of our experiences, DBA / Development work on a project is significant. However the process procurement of DBAs / developers as resources are quite informal, say a casual email or word to our managers.
 
 
 For those of us without access to formal work tracking software like JIRA / Confluence / etc, a [Statement_Of_Work](https://github.com/psZh3ePNj0/Oracle_Goodies/blob/main/Knowledge-Transfer/Statement_of_Work/SoW_Template.xlsx) document helps:
