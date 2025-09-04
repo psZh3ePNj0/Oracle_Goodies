@@ -1,4 +1,4 @@
-<h2>DBA Statement_of_Work | Technical_Resource_Objective spreadsheet templates</h2>
+<h2>Statement_of_Work | Technical_Resource_Objective spreadsheet templates</h2>
 
 
 In some of our experiences, DBA / Development work on a project is significant. However the process procurement of a DBA[s] / developer[s] as resources are quite informal, say a casual email or word to our managers.
