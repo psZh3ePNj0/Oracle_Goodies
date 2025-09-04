@@ -1,4 +1,5 @@
-DBA Handover spreadsheet template [xlxs] focusing on details of a Database:
+[DBA Handover spreadsheet template](https://github.com/psZh3ePNj0/Oracle_Goodies/blob/main/Knowledge-Transfer/HandOver_Template/DBA_Handover_Document_Template.xlsx) 
+focusing on details of a Database:
 
   - Type
   - Version
