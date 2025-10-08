@@ -1,1 +1,1 @@
-DBA Administration Directory [Oracle Initially). Oracle Admin composed of SQL, ASM and EXADATA.
+DBA Administration Directory -> composed of SQL, ASM and EXADATA.
