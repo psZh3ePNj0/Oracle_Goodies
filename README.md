@@ -17,4 +17,6 @@ Here you  will find Sub Directories [with there own hierachal structures] coveri
 - Articles
 - etc..
 
-Where applicable: my acknowldgements to previous | fellow colleagues for their involvement / collaboration / initial release of scripts.
+<br>
+
+<b> Where applicable: my acknowldgements to previous | fellow colleagues for their involvement / collaboration / initial release of scripts. </b>
