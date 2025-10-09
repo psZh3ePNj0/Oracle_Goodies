@@ -1,11 +1,11 @@
 # Oracle_Goodies
 Hi All. Welcome to the Oracle_Goodies Project: An repository aimed at Oracle:
 
-- Development
 - Administration (sql / asm / exadata)
-- Reporting
-- Data Migration
 - Knowledge Transfer [KT], Best Practices, and Professional Development
+<-- Development
+- Reporting
+- Data Migration -->
 <br/>
 
 
