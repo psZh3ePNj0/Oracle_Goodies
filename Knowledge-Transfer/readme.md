@@ -3,5 +3,5 @@ Knowledge Transfer Directory. Contents are templates for fellow DBAs / Developer
   - Convenient
   - Eliminate "Reinventing the wheel"capacity
  
-Please enjoy!
+Please enjoy, but use responsibly. 
 
