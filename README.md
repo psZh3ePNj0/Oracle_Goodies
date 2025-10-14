@@ -20,7 +20,7 @@ Here you  will find Sub Directories [with there own hierachal structures] coveri
 <br>
 
 <b> Where applicable: my acknowldgements to previous | fellow colleagues for their involvement / collaboration / initial release of scripts.
-Of note, the below individuals bear merit in their contributions:
+Of note, the below individuals bear merit for their contributions:
 
 - [Ms. Gael Jose](https://www.linkedin.com/in/gael-jose-51437213/)
 - [Mr. Garfield Coleman](https://www.linkedin.com/in/garfield-coleman-192b8521/)
