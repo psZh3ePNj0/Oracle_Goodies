@@ -25,5 +25,6 @@ Of note, the below individuals bear merit for their contributions:
 - [Ms. Gael Jose](https://www.linkedin.com/in/gael-jose-51437213/)
 - [Mr. Garfield Coleman](https://www.linkedin.com/in/garfield-coleman-192b8521/)
 - [Mr. Jose Linares](https://www.linkedin.com/in/joselinares/)
-<!--- [Mr. David Reuben](https://www.linkedin.com/in/david-rubin-9457232/) -->
+- [Mr. David Reuben](https://www.linkedin.com/in/david-rubin-9457232/)
+<!-- - [Mr. Joselle Lintok](https://www.linkedin.com/in/joselle-lontok-11818a68/) -->
 </b>
