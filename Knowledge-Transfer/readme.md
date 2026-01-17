@@ -3,5 +3,7 @@ Knowledge Transfer Directory. Contents are templates for fellow DBAs / Developer
   - Convenient
   - Eliminate "Reinventing the wheel"capacity
  
-Please enjoy, but use responsibly. 
+Please enjoy, $$\color{blue} \space but \space use \space responsibly.$$ 
 
+
+<br>
