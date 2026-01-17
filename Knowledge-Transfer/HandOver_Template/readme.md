@@ -8,4 +8,4 @@ focusing on details of a Database:
   - Monitoring
   - etc....
 
-and the application it supports.
+and the application it supports. Please enjoy | modify | expand upon for your objectives $$\color{blue} \space and \space use \space responsibly.$$ 
