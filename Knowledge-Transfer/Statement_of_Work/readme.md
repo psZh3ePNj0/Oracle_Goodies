@@ -15,5 +15,5 @@ For individual DBAs / Developers without access to formal work tracking software
 Similarly for the DBA / Development Lead, a [Technical_Resource_Objective](https://github.com/psZh3ePNj0/Oracle_Goodies/blob/main/Knowledge-Transfer/Statement_of_Work/Technical_Resource_Objective_Template.xlsx) can provide higher level tracking for DBA / Development projects of a team with tabs for Active / On Hold projects.
 
 
-Please enjoy | modify | expand upon for your objectives, $$\color{blue} \space but \space use \space responsibly.$$ 
+Please enjoy | modify | expand upon for your objectives, $$\color{blue} \space and \space use \space responsibly.$$ 
 
