@@ -20,3 +20,7 @@ Below is some critical categories a DBA will use in SQL scripts review.
 - $$\color{blue}User \space Acceptance \space Testing$$
 	
 - $$\color{blue}DB \space Performance$$
+
+<br>
+
+Please enjoy | modify | expand upon for your objectives $$\color{blue} \space and \space use \space responsibly.$$ 
