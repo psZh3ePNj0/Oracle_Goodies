@@ -13,7 +13,7 @@ Comment snippets should guide developers / reviewers to key explanation points |
 
 <br>
 
-$$\color{blue}Another \space best \space practice \space is \space meaningful \space script \space names.$$ Each organisation has its own standards, however, within scripts $$\color{blue} having \space RO \space(rollout) \space or \space RB \space (rollback)$$ makes a script quickly recognisable to a key area of its purpose. In addition to the base scripts, $$\color{blue}validation \space scripts,$$ for rollout $$\color{blue}(ROV)$$ and rollback $$\color{blue}(RBV)$$ can / should be used to validate the base scripts.
+$$\color{blue}Another \space best \space practice \space is \space meaningful \space script \space names.$$ Each organisation has its own standards, however, within scripts $$\color{blue} having \space RO \space(rollout) \space or \space RB \space (rollback)$$ makes a script quickly recognisable to a key area of its purpose.
 
 
 <br>
@@ -21,9 +21,12 @@ $$\color{blue}Another \space best \space practice \space is \space meaningful \s
 
 - Rollout (RO) Scripts
 - Rollback (RB) Scripts
-- Rollout Validation (ROV) Scripts
-- Rollback Validation (RBV) Scripts
 
 <br>
 
-See sample scripts templates. Please enjoy  | expand upon for your objectives $$\color{blue} \space and \space use \space responsibly.$$ 
+See sample scripts templates
+  - [CHGMGT_20180117_TableBackUp] (Knowledge-Transfer/DBA-Review-Templates/1_Script_Validation/CHGMGT_20180117_TableBackUp.sql)
+- [CHGMGT_20180117_RO] (Knowledge-Transfer/DBA-Review-Templates/1_Script_Validation/CHGMGT_20180117_TableBackUp.sql)
+- [CHGMGT_20180117_RB] (Knowledge-Transfer/DBA-Review-Templates/1_Script_Validation/CHGMGT_20180117_TableBackUp.sql)
+
+Please enjoy  | expand upon for your objectives $$\color{blue} \space and \space use \space responsibly.$$ 
