@@ -26,4 +26,4 @@ $$\color{blue}Another \space best \space practice \space is \space meaningful \s
 
 <br>
 
-See sample scripts templates. Please enjoy | modify | expand upon for your objectives $$\color{blue} \space and \space use \space responsibly.$$ 
+See sample scripts templates. Please enjoy  | expand upon for your objectives $$\color{blue} \space and \space use \space responsibly.$$ 
