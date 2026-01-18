@@ -15,18 +15,14 @@ Comment snippets should guide developers / reviewers to key explanation points |
 
 $$\color{blue}Another \space best \space practice \space is \space meaningful \space script \space names.$$ Each organisation has its own standards, however, within scripts $$\color{blue} having \space RO \space(rollout) \space or \space RB \space (rollback)$$ makes a script quickly recognisable to a key area of its purpose.
 
-
-<br>
-<h4>Script Execution Types:</h4>
-
-- Rollout (RO) Scripts
-- Rollback (RB) Scripts
-
 <br>
 
-See sample scripts templates
-  - [CHGMGT_20180117_TableBackUp] (Knowledge-Transfer/DBA-Review-Templates/1_Script_Validation/CHGMGT_20180117_TableBackUp.sql)
-- [CHGMGT_20180117_RO] (Knowledge-Transfer/DBA-Review-Templates/1_Script_Validation/CHGMGT_20180117_TableBackUp.sql)
-- [CHGMGT_20180117_RB] (Knowledge-Transfer/DBA-Review-Templates/1_Script_Validation/CHGMGT_20180117_TableBackUp.sql)
+<h4>Script Execution Types and templates:</h4>
+
+- [CHGMGT_20180117_TableBackUp](https://github.com/psZh3ePNj0/Oracle_Goodies/blob/main/Knowledge-Transfer/DBA-Review-Templates/1_Script_Validation/CHGMGT_20180117_TableBackUp.sql)
+- [CHGMGT_20180117_RO](https://github.com/psZh3ePNj0/Oracle_Goodies/blob/main/Knowledge-Transfer/DBA-Review-Templates/1_Script_Validation/CHGMGT_20180117_RO.sql)
+- [CHGMGT_20180117_RB](https://github.com/psZh3ePNj0/Oracle_Goodies/blob/main/Knowledge-Transfer/DBA-Review-Templates/1_Script_Validation/CHGMGT_20180117_RB.sql)
+
+<br>
 
 Please enjoy  | expand upon for your objectives $$\color{blue} \space and \space use \space responsibly.$$ 
