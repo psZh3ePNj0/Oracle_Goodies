@@ -17,8 +17,13 @@ there could be hundreds of lines of code.
 What makes sense is, $$\color{blue} before \space a \space data \space structure \space deployment, \space take \space a \space snapshot \space copy \space of \space the \space data \space structure$$ Should a rollback be required - restore the snapshot copy $$\color{red} (given \space no \space other \space  data \space structure \space / \space dependency \space was \space impacted).$$
 
 For review - the strategy is relatively straightforward. Take the Rollout / Rollback SQL files and use a comparative Windows tool like $$\color{blue}Beyond \space Compare \space | \space WinMerge$$ or if in a Linux environment using the $$\color{blue} diff$$ command with the two files to ensure the difference in the files are the ones that are intended.
-
 <br>
 
 Post side-by-side validation, $$\color{blue} ensure \space rollout \space and \space rollback \space scripts \space execute \space fine \space in \space a \space non-production$$ <br>
 $$\color{blue}environment \space and \space have \space gone \space through \space UAT \space / \space Regression \space testing.$$
+<br>
+
+<h4>Sample RollOut | RollBack Data Structure templates:</h4>
+
+- [CHGMGT_20180117_PKG_{DESCRIPTION}_RO](https://github.com/psZh3ePNj0/Oracle_Goodies/blob/main/Knowledge-Transfer/DBA-Review-Templates/1_Script_Validation/CHGMGT_20180117_TableBackUp.sql)
+- [CHGMGT_20180117_PKG_{DESCRIPTION}_RB](https://github.com/psZh3ePNj0/Oracle_Goodies/blob/main/Knowledge-Transfer/DBA-Review-Templates/1_Script_Validation/CHGMGT_20180117_RO.sql)
