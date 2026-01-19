@@ -3,11 +3,11 @@
 <br>
 A portion of <Script Validation> section was dedicated towards rollback. In that context - the rollback was centered around script execution failure / data restoration requirement. However, with data structure rollback (DDLs) such as:
 
-- Package
-- Stored procedures
-- Functions
-- Views
-- Triggers
+- $$\color{blue}Package$$
+- $$\color{blue}Stored Procedures$$
+- $$\color{blue}Functions$$
+- $$\color{blue}Views$$
+- $$\color{blue}Triggers$$
 
 there could be hundreds of lines of code. 
 
