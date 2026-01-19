@@ -1,7 +1,7 @@
 <h2>ROLLBACK REVIEW</h2>
 
 <br>
-A portion of the [Script Validation] (https://github.com/psZh3ePNj0/Oracle_Goodies/tree/main/Knowledge-Transfer/DBA-Review-Templates/1_Script_Validation) section was dedicated towards rollback. In that context - the rollback was centered around script execution failure / data restoration requirement. However, with data structure rollback (DDLs) such as:
+A portion of the [Script Validation] (https://github.com/psZh3ePNj0/Oracle_Goodies/blob/main/Knowledge-Transfer/DBA-Review-Templates/1_Script_Validation/readme.md) section was dedicated towards rollback. In that context - the rollback was centered around script execution failure / data restoration requirement. However, with data structure rollback (DDLs) such as:
 
 - $$\color{blue}Package$$
 - $$\color{blue}Stored Procedures$$
