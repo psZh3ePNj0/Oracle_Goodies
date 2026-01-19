@@ -25,5 +25,5 @@ $$\color{blue}environment \space and \space have \space gone \space through \spa
 
 <h4>Sample RollOut | RollBack Data Structure templates:</h4>
 
-- [CHGMGT_20180117_SP_{DESCRIPTION}_RO](https://github.com/psZh3ePNj0/Oracle_Goodies/blob/main/Knowledge-Transfer/DBA-Review-Templates/1_Script_Validation/CHGMGT_20180117_TableBackUp.sql)
-- [CHGMGT_20180117_SP_{DESCRIPTION}_RB](https://github.com/psZh3ePNj0/Oracle_Goodies/blob/main/Knowledge-Transfer/DBA-Review-Templates/1_Script_Validation/CHGMGT_20180117_RO.sql)
+- [CHGMGT_20180117_SP_DESCRIPTION_RO](https://github.com/psZh3ePNj0/Oracle_Goodies/blob/main/Knowledge-Transfer/DBA-Review-Templates/2_Rollback_Validation/CHGMGT_20180117_SP_DESCRIPTION_RO.sql)
+- [CHGMGT_20180117_SP_DESCRIPTION_RB](https://github.com/psZh3ePNj0/Oracle_Goodies/blob/main/Knowledge-Transfer/DBA-Review-Templates/2_Rollback_Validation/CHGMGT_20180117_SP_DESCRIPTION_RO.sql)
