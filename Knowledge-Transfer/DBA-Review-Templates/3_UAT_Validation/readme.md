@@ -18,13 +18,13 @@ For a DBA, we need to ascertain if the various signoffs orrurred. This could be 
 - Project Management Tracking System verification such as $$\color{blue}JIRA \space | \space GITHUB$$
 <br>
 
-<h4>Sample Impact Analysis templates:</h4>
+<h4>Sample Impact Analysis Templates:</h4>
 
 - [SmartSheet Impact Analysis Template - Word](https://github.com/psZh3ePNj0/Oracle_Goodies/blob/main/Knowledge-Transfer/DBA-Review-Templates/3_UAT_Validation/IC-Business-Impact-Analysis-9306_WORD.dotx)
 - [OCM Solutions Impact Analysis Template - Excel](https://github.com/psZh3ePNj0/Oracle_Goodies/blob/main/Knowledge-Transfer/DBA-Review-Templates/3_UAT_Validation/Change-IA-Template-Comprehensive.xlsx)
 <br>
 
-<h4>$$\color{blue}Acknowledgements:$$ Sources of Sample Impact Analysis templates:</h4>
+<h4>$$\color{blue}Acknowledgements:$$ Sources of Sample Impact Analysis Templates:</h4>
 
 - [Smartsheet](https://www.smartsheet.com/business-impact-analysis-template)
 - [OCM Solutions](https://www.ocmsolution.com/free-impact-assessments-template/)
