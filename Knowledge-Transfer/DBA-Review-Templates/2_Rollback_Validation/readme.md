@@ -29,6 +29,4 @@ $$\color{blue}environment \space and \space have \space gone \space through \spa
 - [CHGMGT_20180117_SP_DESCRIPTION_RB](https://github.com/psZh3ePNj0/Oracle_Goodies/blob/main/Knowledge-Transfer/DBA-Review-Templates/2_Rollback_Validation/CHGMGT_20180117_SP_DESCRIPTION_RB.sql)
 <br>
 
-<br>
-
 Please enjoy  | expand upon for your objectives $$\color{blue} \space and \space use \space responsibly.$$
